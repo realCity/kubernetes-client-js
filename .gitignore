@@ -10,3 +10,5 @@ coverage/*
 examples/package-lock.json
 .nyc_output
 
+.idea
+*.iml
